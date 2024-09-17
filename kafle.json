@@ -1,0 +1,546 @@
+[
+    {
+        "id": "product1",
+        "category": "beds",
+        "image": "assets/1.png",
+        "title": "Łóżko z slumsów",
+        "subtitle": "Lozko z slumsow",
+        "description": "Tier 1"
+    },
+    {
+        "id": "product2",
+        "category": "siedziska",
+        "image": "assets/2.png",
+        "title": "Ławka z kłody",
+        "subtitle": "Lawka z klody",
+        "description": "Tier 5"
+    },
+    {
+        "id": "product3",
+        "category": "tables",
+        "image": "assets/3.png",
+        "title": "Prowizoryczny stolik",
+        "subtitle": "Prowizoryczny stolik",
+        "description": "Tier 7"
+    },
+    {
+        "id": "product4",
+        "category": "skrzynie",
+        "image": "assets/4.png",
+        "title": "Prosta skrzynia portowa",
+        "subtitle": "Prosta skrzynia portowa",
+        "description": "Tier 10"
+    },
+    {
+        "id": "product5",
+        "category": "tables",
+        "image": "assets/5.png",
+        "title": "Biedny stół z desek",
+        "subtitle": "Biedny stol z desek",
+        "description": "Tier 10"
+    },
+        {
+        "id": "product6",
+        "category": "beds",
+        "image": "assets/6.png",
+        "title": "Materac z slumsów",
+        "subtitle": "Materac z slumsów",
+        "description": "Tier 10"
+    },
+    {
+        "id": "product7",
+        "category": "siedziska",
+        "image": "assets/7.png",
+        "title": "Prosty taboret",
+        "subtitle": "Prosty taboret",
+        "description": "Tier 10"
+    },
+    {
+        "id": "product8",
+        "category": "tables",
+        "image": "assets/8.png",
+        "title": "Pospolity stół mieszkańca",
+        "subtitle": "Pospolity stol mieszkanca",
+        "description": "Tier 11"
+    },
+    {
+        "id": "product9",
+        "category": "skrzynie",
+        "image": "assets/9.png",
+        "title": "Słaba skrzynia",
+        "subtitle": "Slaba skrzynia",
+        "description": "Tier 14"
+    },
+    {
+        "id": "product10",
+        "category": "beds",
+        "image": "assets/10.png",
+        "title": "Stare łóżko",
+        "subtitle": "Stare lozko",
+        "description": "Tier 15"
+    },
+    {
+        "id": "product10.5",
+        "category": "inne",
+        "image": "assets/10_5.png",
+        "title": "Dorabianie klucza",
+        "subtitle": "Dorabianie klucza",
+        "description": "Tier 15"
+    },
+    {
+        "id": "product11",
+        "category": "skrzynie",
+        "image": "assets/11.png",
+        "title": "Słaba skrzynia ładunkowa",
+        "subtitle": "Slaba skrzynia ladunkowa",
+        "description": "Tier 17"
+    },
+        {
+        "id": "product11.5",
+        "category": "skrzynie",
+        "image": "assets/11_5.png",
+        "title": "Stos słabych skrzyń ładunkowych",
+        "subtitle": "Stos slabych skrzyn ladunkowych",
+        "description": "Tier 18"
+    },
+    {
+        "id": "product12",
+        "category": "tables",
+        "image": "assets/12.png",
+        "title": "Drewniany stół z wzmocnieniami",
+        "subtitle": "Drewniany stol z wzmocnieniami",
+        "description": "Tier 19"
+    },
+    {
+        "id": "product13",
+        "category": "siedziska",
+        "image": "assets/13.png",
+        "title": "Prosta drewniana ławka",
+        "subtitle": "Prosta drewniana lawka",
+        "description": "Tier 20"
+    },
+    {
+        "id": "product14",
+        "category": "siedziska",
+        "image": "assets/14.png",
+        "title": "Taboret biesiadnika",
+        "subtitle": "Taboret biesiadnika",
+        "description": "Tier 20"
+    },
+    {
+        "id": "product15",
+        "category": "skrzynie",
+        "image": "assets/15.png",
+        "title": "Dobra skrzynia ładunkowa",
+        "subtitle": "Dobra skrzynia ladunkowa",
+        "description": "Tier 22"
+    },
+    {
+        "id": "product16",
+        "category": "tables",
+        "image": "assets/16.png",
+        "title": "Duży pospolity stół mieszkańca",
+        "subtitle": "Duzy pospolity stol mieszkanca",
+        "description": "Tier 23"
+    },
+    {
+        "id": "product16.5",
+        "category": "beds",
+        "image": "assets/16_5.webp",
+        "title": "Łóżko myśliwego",
+        "subtitle": "Lozko mysliwego",
+        "description": "Tier 23"
+    },
+    {
+        "id": "product17",
+        "category": "beds",
+        "image": "assets/17.png",
+        "title": "Łóżko z włókien roślinnych",
+        "subtitle": "Lozko z wlokien roslinnych",
+        "description": "Tier 24"
+    },
+    {
+        "id": "product18",
+        "category": "dekoracja",
+        "image": "assets/18.png",
+        "title": "Mała półka na produkty",
+        "subtitle": "Mala polka na produkty",
+        "description": "Tier 25"
+    },
+    {
+        "id": "product19",
+        "category": "skrzynie",
+        "image": "assets/19.png",
+        "title": "Dobra skrzynia z Khorinis",
+        "subtitle": "Dobra skrzynia z Khorinis",
+        "description": "Tier 26"
+    },
+    {
+        "id": "product20",
+        "category": "dekoracja",
+        "image": "assets/20.png",
+        "title": "Zwykła półka",
+        "subtitle": "Zwykla polka",
+        "description": "Tier 26"
+    },
+    {
+        "id": "product21",
+        "category": "dekoracja",
+        "image": "assets/21.png",
+        "title": "Prosta sklepowa półka",
+        "subtitle": "Prosta sklepowa polka",
+        "description": "Tier 27"
+    },
+    {
+        "id": "product22",
+        "category": "skrzynie",
+        "image": "assets/22.png",
+        "title": "Stos zwykłych skrzyń ładunkowych",
+        "subtitle": "Stos zwyklych skrzyn ladunkowych",
+        "description": "Tier 28"
+    },
+    {
+        "id": "product23",
+        "category": "siedziska",
+        "image": "assets/23.png",
+        "title": "Wzmocniony taboret",
+        "subtitle": "Wzmocniony taboret",
+        "description": "Tier 30"
+    },
+    {
+        "id": "product24",
+        "category": "dekoracja",
+        "image": "assets/24.png",
+        "title": "Stojak z beczką na wino",
+        "subtitle": "Stojak z beczka na wino",
+        "description": "Tier 31"
+    },
+    {
+        "id": "product24.5",
+        "category": "beds",
+        "image": "assets/24_5.webp",
+        "title": "Biedne łóżko",
+        "subtitle": "Biedne łóżko",
+        "description": "Tier 31"
+    },
+    {
+        "id": "product25",
+        "category": "tables",
+        "image": "assets/25.png",
+        "title": "Argański stoliko",
+        "subtitle": "Arganski stolik",
+        "description": "Tier 32"
+    },
+    {
+        "id": "product26",
+        "category": "siedziska",
+        "image": "assets/26.png",
+        "title": "Zwykła ławka",
+        "subtitle": "Zwykla lawka",
+        "description": "Tier 32"
+    },
+    {
+        "id": "product27",
+        "category": "dekoracja",
+        "image": "assets/27.png",
+        "title": "Wielka trumna",
+        "subtitle": "Wielka trumna",
+        "description": "Tier 32"
+    },
+        {
+        "id": "product28",
+        "category": "beds",
+        "image": "assets/28.png",
+        "title": "Torgańskie łóżko",
+        "subtitle": "Torganskie lozko",
+        "description": "Tier 33"
+    },
+    {
+        "id": "product29",
+        "category": "dekoracja",
+        "image": "assets/29.png",
+        "title": "Mniejsza trumna",
+        "subtitle": "Mniejsza trumna",
+        "description": "Tier 33"
+    },
+    {
+        "id": "product30",
+        "category": "skrzynie",
+        "image": "assets/30.png",
+        "title": "Skrzynia marynarzy",
+        "subtitle": "Skrzynia marynarzy",
+        "description": "Tier 34"
+    },
+    {
+        "id": "product31",
+        "category": "siedzisko",
+        "image": "assets/31.png",
+        "title": "Prowizoryczne krzesło",
+        "subtitle": "Prowizoryczne krzeslo",
+        "description": "Tier 35"
+    },
+    {
+        "id": "product32",
+        "category": "tables",
+        "image": "assets/32.png",
+        "title": "Dobry stół z topoli",
+        "subtitle": "Dobry stol z topoli",
+        "description": "Tier 35"
+    },
+    {
+        "id": "product33",
+        "category": "dekoracja",
+        "image": "assets/33.png",
+        "title": "Biedna drewniana komoda",
+        "subtitle": "Biedna drewniana komoda",
+        "description": "Tier 38"
+    },
+    {
+        "id": "product34",
+        "category": "dekoracja",
+        "image": "assets/34.png",
+        "title": "Stojak na wina",
+        "subtitle": "Stojak na wina",
+        "description": "Tier 39"
+    },
+    {
+        "id": "product35",
+        "category": "siedzisko",
+        "image": "assets/35.png",
+        "title": "Wyborny taboret",
+        "subtitle": "Wyborny taboret",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.x",
+        "category": "inne",
+        "image": "assets/35_x.png",
+        "title": "Wóz",
+        "subtitle": "woz",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.1",
+        "category": "warsztaty",
+        "image": "assets/35_1.png",
+        "title": "Stół cukierniczy",
+        "subtitle": "Stol cukierniczy",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.2",
+        "category": "warsztaty",
+        "image": "assets/35_2.png",
+        "title": "Stół rzeźniczy",
+        "subtitle": "Stol rzezniczy",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.3",
+        "category": "warsztaty",
+        "image": "assets/35_3.png",
+        "title": "Piec do smażenia mięsa",
+        "subtitle": "Piec do smazenia miesa",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.4",
+        "category": "warsztaty",
+        "image": "assets/35_4.png",
+        "title": "Wyciskarka do owoców",
+        "subtitle": "Wyciskarka do owocow",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.5",
+        "category": "warsztaty",
+        "image": "assets/35_5.png",
+        "title": "Stół do łuków",
+        "subtitle": "Stol do lukow",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.5a",
+        "category": "warsztaty",
+        "image": "assets/35_5a.png",
+        "title": "Stół do kusz",
+        "subtitle": "Stol do kusz",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.5b",
+        "category": "warsztaty",
+        "image": "assets/35_5b.png",
+        "title": "Stół do amunicji",
+        "subtitle": "Stol do amunicji",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.6",
+        "category": "warsztaty",
+        "image": "assets/35_6.png",
+        "title": "Piec do wypieków",
+        "subtitle": "Piec do wypieków",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product36",
+        "category": "dekoracja",
+        "image": "assets/36.png",
+        "title": "Duży stojak na wina",
+        "subtitle": "Duzy stojak na wina",
+        "description": "Tier 41"
+    },
+    {
+        "id": "product37",
+        "category": "skrzynie",
+        "image": "assets/37.png",
+        "title": "Zwykła skrzynia z zamkiem",
+        "subtitle": "Zwykła skrzynia z zamkiem",
+        "description": "Tier 42"
+    },
+    {
+        "id": "product38",
+        "category": "dekoracja",
+        "image": "assets/38.png",
+        "title": "Zwykły stojak na alkohol",
+        "subtitle": "Zwykly stojak na alkohol",
+        "description": "Tier 43"
+    },
+    {
+        "id": "product39",
+        "category": "beds",
+        "image": "assets/39.png",
+        "title": "Wygodne łóżko z Feshyr",
+        "subtitle": "Wygodne lozko z Feshyr",
+        "description": "Tier 44"
+    },
+    {
+        "id": "product40",
+        "category": "tables",
+        "image": "assets/40.png",
+        "title": "Mały stoliczek",
+        "subtitle": "Maly stoliczek",
+        "description": "Tier 45"
+    },
+    {
+        "id": "product41",
+        "category": "siedzisko",
+        "image": "assets/41.png",
+        "title": "Ławka obozowa",
+        "subtitle": "Lawka obozowa",
+        "description": "Tier 46"
+    },
+    {
+        "id": "product42",
+        "category": "tables",
+        "image": "assets/42.png",
+        "title": "Skrzynka zrobiona na stolik",
+        "subtitle": "Skrzynka zrobiona na stolik",
+        "description": "Tier 49"
+    },
+    {
+        "id": "product43",
+        "category": "beds",
+        "image": "assets/43.png",
+        "title": "Drewniana wanna",
+        "subtitle": "Drewniana wanna",
+        "description": "Tier 50"
+    },
+    {
+        "id": "product44",
+        "category": "beds",
+        "image": "assets/44.webp",
+        "title": "Varanckie łóżko",
+        "subtitle": "Varanckie łóżko",
+        "description": "Tier 51"
+    },
+    {
+        "id": "product45",
+        "category": "siedziska",
+        "image": "assets/45.webp",
+        "title": "Wygodny taboret",
+        "subtitle": "Wygodny taboret",
+        "description": "Tier 52"
+    },
+    {
+        "id": "product47",
+        "category": "tables",
+        "image": "assets/47.webp",
+        "title": "Vengardzki stół szlachty",
+        "subtitle": "Vengardzki stol szlachty",
+        "description": "Tier 53"
+    },
+    {
+        "id": "product48",
+        "category": "siedziska",
+        "image": "assets/48.webp",
+        "title": "Ławka miejska",
+        "subtitle": "lawka miejska",
+        "description": "Tier 53"
+    },
+    {
+        "id": "product46",
+        "category": "skrzynie",
+        "image": "assets/46.webp",
+        "title": "Stos dobrych skrzyń ładunkowych",
+        "subtitle": "Stos dobrych skrzyn ladunkowych",
+        "description": "Tier 54"
+    },
+    {
+        "id": "product49",
+        "category": "skrzynie",
+        "image": "assets/49.webp",
+        "title": "Wzmocniona skrzynia ładunkowa",
+        "subtitle": "Wzmocniona skrzynia ladunkowa",
+        "description": "Tier 55"
+    },
+    {
+        "id": "product50",
+        "category": "beds",
+        "image": "assets/50.webp",
+        "title": "Zwyczajne łóżko strażnika",
+        "subtitle": "Zwyczajne łóżko strażnika",
+        "description": "Tier 57"
+    },
+    {
+        "id": "product51",
+        "category": "skrzynie",
+        "image": "assets/51.webp",
+        "title": "Prosta drewniana skrzynia",
+        "subtitle": "Prosta drewniana skrzynia",
+        "description": "Tier 58"
+    },
+    {
+        "id": "product52",
+        "category": "beds",
+        "image": "assets/52.webp",
+        "title": "Farańskie łóżko",
+        "subtitle": "Farańskie łóżko",
+        "description": "Tier 60"
+    },
+    {
+        "id": "product53",
+        "category": "dekoracja",
+        "image": "assets/53.webp",
+        "title": "Regał na książki",
+        "subtitle": "Regal na ksiazki",
+        "description": "Tier 60"
+    },
+    {
+        "id": "product54",
+        "category": "siedziska",
+        "image": "assets/54.webp",
+        "title": "Fotel z tkaniny",
+        "subtitle": "Fotel z tkaniny",
+        "description": "Tier 60"
+    },
+    {
+        "id": "product55",
+        "category": "siedziska",
+        "image": "assets/55.webp",
+        "title": "Fotel z skóry",
+        "subtitle": "Fotel z skóry",
+        "description": "Tier 60"
+    }
+]

@@ -1,0 +1,978 @@
+[
+  {
+    "id": "product1",
+    "name": "Łóżko z slumsów",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Jutowe tkaniny"
+    ],
+    "description": "Regeneracja staminy: 0.25/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/1.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product2",
+    "name": "Ławka z kłody",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Pocięte drewna brzozy",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product3",
+    "name": "Prowizoryczny stolik",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Pocięte drewna brzozy",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/3.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product4",
+    "name": "Prosta skrzynia portowa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 300kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/4.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product5",
+    "name": "Biedny stół z desek",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Pocięte drewna brzozy",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product6",
+    "name": "Materac z slumsów",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Skóry zająca",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/6.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product7",
+    "name": "Prosty taboret",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/7.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product8",
+    "name": "Pospolity stół mieszkańca",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Pocięte drewna brzozy",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/8.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product9",
+    "name": "Słaba skrzynia",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Paczki gwoździ",
+      "Żelazny pręt",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 100kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/9.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product10",
+    "name": "Stare łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Jutowe tkaniny",
+      "Skóry wilka",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/10.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product10.5",
+    "name": "Stare łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Część zamka"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/10_5.gif?raw=true",
+    "price": "30 monet"
+  },
+  {
+    "id": "product11",
+    "name": "Słaba skrzynia ładunkowa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Paczki z gwoździ ",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 300kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/11.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product11.5",
+    "name": "Stos słabych skrzyń ładunkowych",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 500kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/11_5.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product12",
+    "name": "Drewniany stół z wzmocnieniami",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Paczki gwoździ",
+      "Żelazny pręt",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/12.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product13",
+    "name": "Prosta drewniana ławka",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Pocięte drewna brzozy",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/13.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product14",
+    "name": "Taboret biesiadnika",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/14.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product15",
+    "name": "Dobra skrzynia ładunkowa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 500kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/15.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product16",
+    "name": "Duży pospolity stół mieszkańca",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Pocięte drewna topoli",
+      "Paczki gwoździ",
+      "Klej",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/16.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product16.5",
+    "name": "Duży pospolity stół mieszkańca",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Jutowe tkaniny",
+      "Skóry wilka",
+      "Paczka gwoździ",
+      "Klej",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: 0.30/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/16_5.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product17",
+    "name": "Łóżko z włókien roślinnych",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Jutowe tkaniny",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/17.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product18",
+    "name": "Mała półka na produkty",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/18.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product19",
+    "name": "Dobra skrzynia z Khorinis",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Kleje",
+      "Paczki gwoździ",
+      "Żelazne pręty",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 200kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/19.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product20",
+    "name": "Zwykła półka na produkty",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/20.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product21",
+    "name": "Prosta sklepowa półka",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/21.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product22",
+    "name": "Stos zwykłych skrzyń ładunkowych",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 600kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/22.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product23",
+    "name": "Wzmocniony taboret",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/23.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product24",
+    "name": "Stojak z beczką na wino",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Pocięte drewna topoli",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/24.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product24.5",
+    "name": "Biedne łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Jutowe tkaniny",
+      "Skóra dzika",
+      "Paczki gwoździ",
+      "Klej",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/24_5.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product25",
+    "name": "Argański stolik",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Pocięte drewna topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/25.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product26",
+    "name": "Zwykła ławka",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Sadła kretoszczura"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/26.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product27",
+    "name": "Wielka trumna",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Sadła kretoszczura"
+    ],
+    "description": "Pora umierać",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/27.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product28",
+    "name": "Torgańskie łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Jutowe tkaniny",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: 0.34/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/28.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product29",
+    "name": "Mniejsza trumna",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Sadła kretoszczura"
+    ],
+    "description": "Pora umierać",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/29.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product30",
+    "name": "Skrzynia marynarzy",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Kleje",
+      "Paczki gwoździ",
+      "Żelazne pręty",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 250kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/30.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product31",
+    "name": "Prowizoryczne krzesło",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (NIEZNANE)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/31.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product32",
+    "name": "Dobry stół z topoli",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Pocięte drewna topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Żelazny pręt",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/32.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product33",
+    "name": "Biedna drewniana komoda",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Pocięte drewna topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/33.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product34",
+    "name": "Stojak na wina",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/34.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35",
+    "name": "Wyborny taboret",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (NIEZNANE)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35.x",
+    "name": "Wóz",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Kleje",
+      "Paczki gwoździ",
+      "Żelazne pręty",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_x.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35.1",
+    "name": "Stół cukierniczy",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Jutowe tkaniny",
+      "Kleje",
+      "Paczki gwoździ",
+      "Stalowe blachy",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_1.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35.2",
+    "name": "Stół rzeźniczy",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Stalowe pręty",
+      "Jakiś duży tasak",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_2.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35.3",
+    "name": "Piec do smażenia mięsa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Sztaby staliy",
+      "Stalowe blachy",
+      "Stalowe pręty",
+      "Wiadro nitów",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_3.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35.4",
+    "name": "Wyciskarka do owoców",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Rozdrabniacz",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_4.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.5",
+    "name": "Stół do łuków",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Papiery ścierne",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_5.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.5a",
+    "name": "Stół do kusz",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Papiery ścierne",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_5a.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.5b",
+    "name": "Stół do amunicji",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Stalowe pręty",
+      "Kije",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_6.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.6",
+    "name": "Piec do wypieków",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Sztaby stali",
+      "Stalowe blachy",
+      "Paczki gwoździ",
+      "Wiadro nitów",
+      "Sporo kamienia",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_6.webp?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product36",
+    "name": "Duży stojak na wina",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (NIEZNANE)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/36.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product37",
+    "name": "Zwykła skrzynia z zamkiem",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Żelazne pręty",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 300kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/37.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product38",
+    "name": "Zwykły stojak na alkohol",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/38.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product39",
+    "name": "Wygodne łóżko z Feshyr",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Jutowe tkaniny",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: 0.39/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/39.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product40",
+    "name": "Mały stoliczek",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/40.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product41",
+    "name": "Ławka obozowa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/41.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product42",
+    "name": "Skrzynka zrobiona na stolik",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/42.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product43",
+    "name": "Drewniana wanna",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Sadła",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/43.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product44",
+    "name": "Varanckie łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Varanckie tkaniny",
+      "Skóry czarnego wilka",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/44.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product45",
+    "name": "Wygodny taboret\n(animacja pisania)",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Klej",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/45.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product47",
+    "name": "Vengardzki stół szlachty",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Klej",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/47.webp?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product48",
+    "name": "Ławka miejska",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Klej",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/48.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product46",
+    "name": "Stos dobrych skrzyń ładunkowych",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 800kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/46.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product49",
+    "name": "Wzmocniona skrzynia ładunkowa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 600kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/49.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product50",
+    "name": "Zwyczajne łóżko strażnika",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Jedwabna tkanina",
+      "Skóra czarnego wilka",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/50.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product51",
+    "name": "Prosta drewniana skrzynia",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Źelazne pręty",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 350kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/51.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product52",
+    "name": "Farańskie łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Jedwabna tkanina",
+      "Skóra czarnego wilka",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: 0.45/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/52.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product53",
+    "name": "Regał na księgi",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/53.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product54",
+    "name": "Fotel z tkaniny",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Jutowe tkaniny",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/54.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product55",
+    "name": "Fotel z skóry",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Skóry czarnego wilka",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/55.webp?raw=true",
+    "price": "x monet"
+  }
+  
+]
