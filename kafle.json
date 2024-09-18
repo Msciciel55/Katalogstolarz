@@ -558,5 +558,29 @@
         "title": "Dobra skrzynia Myratańska",
         "subtitle": "Dobra skrzynia Myrtanska",
         "description": "Tier 60"
+    },
+    {
+        "id": "product58",
+        "category": "dekoracja",
+        "image": "assets/58.webp",
+        "title": "Mała lada sklepowa",
+        "subtitle": "Mala lada sklepowa",
+        "description": "Tier 63"
+    },
+    {
+        "id": "product59",
+        "category": "dekoracja",
+        "image": "assets/59.webp",
+        "title": "Półokrągła lada sklepowa",
+        "subtitle": "Polokragla lada sklepowa",
+        "description": "Tier 64"
+    },
+    {
+        "id": "product60",
+        "category": "siedziska",
+        "image": "assets/60.webp",
+        "title": "Skórzane krzesło",
+        "subtitle": "Skorzane krzeslo",
+        "description": "Tier 65"
     }
 ]
