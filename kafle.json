@@ -8,6 +8,14 @@
         "description": "Tier 1"
     },
     {
+        "id": "product1.5",
+        "category": "inne",
+        "image": "assets/1_5.webp",
+        "title": "Wędka",
+        "subtitle": "Wedka",
+        "description": "Tier 3"
+    },
+    {
         "id": "product2",
         "category": "siedziska",
         "image": "assets/2.png",
