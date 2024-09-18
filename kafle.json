@@ -542,5 +542,21 @@
         "title": "Fotel z skóry",
         "subtitle": "Fotel z skóry",
         "description": "Tier 60"
+    },
+    {
+        "id": "product56",
+        "category": "siedziska",
+        "image": "assets/56.webp",
+        "title": "Skórzany taboret",
+        "subtitle": "Skorzany taboret",
+        "description": "Tier 60"
+    },
+    {
+        "id": "product57",
+        "category": "skrzynie",
+        "image": "assets/57.webp",
+        "title": "Dobra skrzynia Myratańska",
+        "subtitle": "Dobra skrzynia Myrtanska",
+        "description": "Tier 60"
     }
 ]
