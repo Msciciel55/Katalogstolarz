@@ -915,6 +915,19 @@
     "price": "x monet"
   },
   {
+    "id": "product51.5",
+    "name": "Prosta drewniana skrzynia",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczka gwoździ",
+      "Sadła kretoszczura"
+    ],
+    "description": "Robiona z dębu",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/51_5.webp?raw=true",
+    "price": "x monet"
+  },
+  {
     "id": "product52",
     "name": "Farańskie łóżko",
     "ingredients": [
@@ -955,7 +968,7 @@
       "Paczki gwoździ",
       "Oleje rybne"
     ],
-    "description": "",
+    "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/54.webp?raw=true",
     "price": "x monet"
   },
@@ -970,7 +983,7 @@
       "Paczki gwoździ",
       "Oleje rybne"
     ],
-    "description": "",
+    "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/55.webp?raw=true",
     "price": "x monet"
   },
@@ -985,7 +998,7 @@
       "Paczka gwoździ",
       "Oleje rybne"
     ],
-    "description": "",
+    "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/56.webp?raw=true",
     "price": "x monet"
   },
@@ -1000,7 +1013,7 @@
       "Stalowe pręty",
       "Oleje rybne"
     ],
-    "description": "",
+    "description": "Pojemność: 400kg (KLUCZ)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/57.webp?raw=true",
     "price": "x monet"
   },
@@ -1043,7 +1056,7 @@
       "Paczki gwoździ",
       "Oleje rybne"
     ],
-    "description": "",
+    "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/60.webp?raw=true",
     "price": "x monet"
   }
