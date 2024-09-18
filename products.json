@@ -990,7 +990,7 @@
     "price": "x monet"
   },
   {
-    "id": "product55",
+    "id": "product57",
     "name": "Dobra skrzynia Myrtańska",
     "ingredients": [
       "Potrzebne materiały:",
@@ -1002,6 +1002,49 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/57.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product58",
+    "name": "Mała lada sklepowa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Klej",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/58.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product59",
+    "name": "Półokrągła lada sklepowa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Klej",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/59.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product60",
+    "name": "Skórzane krzesło",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Skóra",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/60.webp?raw=true",
     "price": "x monet"
   }
   
