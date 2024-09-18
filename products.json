@@ -12,6 +12,18 @@
     "price": "x monet"
   },
   {
+    "id": "product1.5",
+    "name": "Łóżko z slumsów",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Długi prosty kij",
+      "Żyłka"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/1_5.webp",
+    "price": "x monet"
+  },
+  {
     "id": "product2",
     "name": "Ławka z kłody",
     "ingredients": [
