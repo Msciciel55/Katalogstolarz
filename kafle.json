@@ -512,6 +512,14 @@
         "description": "Tier 58"
     },
     {
+        "id": "product51.5",
+        "category": "dekoracja",
+        "image": "assets/51_5.webp",
+        "title": "Świerkowa beczka",
+        "subtitle": "Swierkowa beczka",
+        "description": "Tier 59"
+    },
+    {
         "id": "product52",
         "category": "beds",
         "image": "assets/52.webp",
