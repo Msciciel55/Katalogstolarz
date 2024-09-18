@@ -973,6 +973,36 @@
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/55.webp?raw=true",
     "price": "x monet"
+  },
+  {
+    "id": "product56",
+    "name": "Skórzany taboret",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Skóra ścierwojada",
+      "Klej",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/56.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product55",
+    "name": "Dobra skrzynia Myrtańska",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Stalowe pręty",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/57.webp?raw=true",
+    "price": "x monet"
   }
   
 ]
