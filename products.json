@@ -769,6 +769,69 @@
     "price": "x monet"
   },
   {
+    "id": "product35.12",
+    "name": "Piec hutniczy",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Sztaby stali",
+      "Stalowe blachy",
+      "Stalowe pręty",
+      "Wiadro nitów",
+      "Kamień budowlany",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_12.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.13",
+    "name": "Stojak do zbrój",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Sztaby stali",
+      "Skóry dzika",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_13.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.14",
+    "name": "Stół do tarcz",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Sztaby stali",
+      "Stalowe pręty",
+      "Paczki gwoździ",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_14.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.15",
+    "name": "Stół do hełmów",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Sztaby stali",
+      "Stalowe pręty",
+      "Paczki gwoździ",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_15.webp?raw=true",
+    "price": "x monet"
+  },
+  {
     "id": "product36",
     "name": "Duży stojak na wina",
     "ingredients": [
