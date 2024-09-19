@@ -694,7 +694,81 @@
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_6.webp?raw=true",
     "price": "x monet"
   },
-    {
+  {
+    "id": "product35.7",
+    "name": "Wiadro z wodą do kuźni",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_7.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.8",
+    "name": "Osełka do kuźni",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczki gwoździ",
+      "Kamień szliferski",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_8.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.9",
+    "name": "Piec do kuźni",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Sztaby stali",
+      "Pół worka proszku węglowego",
+      "Stalowe pręty",
+      "Paczka nitów",
+      "Kamień budowlany",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_9.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.10",
+    "name": "Kowadło",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Sztaby stali",
+      "Pniak dębowy",
+      "Stalowe pręty",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_10.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.11",
+    "name": "Stół do mieczy",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Sztaby stali",
+      "Pół worka proszku węglowego",
+      "Stalowe pręty",
+      "Paczka nitów",
+      "Kamień budowlany",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_11.webp?raw=true",
+    "price": "x monet"
+  },
+  {
     "id": "product36",
     "name": "Duży stojak na wina",
     "ingredients": [
