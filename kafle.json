@@ -432,6 +432,38 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.12",
+        "category": "warsztaty",
+        "image": "assets/35_12.webp",
+        "title": "Piec hutniczyy",
+        "subtitle": "Piec hutniczy",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.13",
+        "category": "warsztaty",
+        "image": "assets/35_13.webp",
+        "title": "Stojak do tworzenia pancerzy",
+        "subtitle": "Stojak do tworzenia pancerzy",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.14",
+        "category": "warsztaty",
+        "image": "assets/35_14.webp",
+        "title": "Stół do tarcz",
+        "subtitle": "Stol do tarcz",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.15",
+        "category": "warsztaty",
+        "image": "assets/35_15.webp",
+        "title": "Stół do hełmów",
+        "subtitle": "Stol do helmow",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.webp",
