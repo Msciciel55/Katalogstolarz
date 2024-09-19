@@ -72,6 +72,14 @@
         "description": "Tier 11"
     },
     {
+        "id": "product8.5",
+        "category": "tables",
+        "image": "assets/8_5.png",
+        "title": "Mały portowy stolik",
+        "subtitle": "Mały portowy stolik",
+        "description": "Tier 13"
+    },
+    {
         "id": "product9",
         "category": "skrzynie",
         "image": "assets/9.png",
@@ -670,6 +678,14 @@
         "title": "Dobra skrzynia Myratańska",
         "subtitle": "Dobra skrzynia Myrtanska",
         "description": "Tier 60"
+    },
+    {
+        "id": "product57.5",
+        "category": "tables",
+        "image": "assets/57_5.webp",
+        "title": "Prostokątny stół z Archolos",
+        "subtitle": "Prostokątny stół z Archolos",
+        "description": "Tier 61"
     },
     {
         "id": "product58",
