@@ -464,6 +464,30 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.16",
+        "category": "warsztaty",
+        "image": "assets/35_16.webp",
+        "title": "Stojak do ubrań",
+        "subtitle": "Stojak do ubran",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.17",
+        "category": "warsztaty",
+        "image": "assets/35_17.webp",
+        "title": "Stojak do pancerzy krawca",
+        "subtitle": "Stojak do pancerzy krawca",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.18",
+        "category": "warsztaty",
+        "image": "assets/35_18.webp",
+        "title": "Krosno",
+        "subtitle": "Krosno",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.webp",
