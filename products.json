@@ -832,6 +832,51 @@
     "price": "x monet"
   },
   {
+    "id": "product35.16",
+    "name": "Stojak do ubrań",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Skóry dzika",
+      "Sztaby stali",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_16.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.17",
+    "name": "Stojak do pancerzy krawca",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Skóry dzika",
+      "Sztaby stali",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_17.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.18",
+    "name": "Krosno",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Dużo nici",
+      "Paczki gwoździ",
+      "kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_18.webp?raw=true",
+    "price": "x monet"
+  },
+  {
     "id": "product36",
     "name": "Duży stojak na wina",
     "ingredients": [
