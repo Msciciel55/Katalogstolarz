@@ -419,6 +419,14 @@
         "id": "product35.10",
         "category": "warsztaty",
         "image": "assets/35_10.webp",
+        "title": "Kowadło",
+        "subtitle": "Kowadlo",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.11",
+        "category": "warsztaty",
+        "image": "assets/35_11.webp",
         "title": "Stół do mieczy",
         "subtitle": "Stół do mieczy",
         "description": "Tier 40"
