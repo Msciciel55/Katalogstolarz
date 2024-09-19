@@ -435,7 +435,7 @@
         "id": "product35.12",
         "category": "warsztaty",
         "image": "assets/35_12.webp",
-        "title": "Piec hutniczyy",
+        "title": "Piec hutniczy",
         "subtitle": "Piec hutniczy",
         "description": "Tier 40"
     },
@@ -443,8 +443,8 @@
         "id": "product35.13",
         "category": "warsztaty",
         "image": "assets/35_13.webp",
-        "title": "Stojak do tworzenia pancerzy",
-        "subtitle": "Stojak do tworzenia pancerzy",
+        "title": "Stojak do pancerzy",
+        "subtitle": "Stojak do pancerzy",
         "description": "Tier 40"
     },
     {
