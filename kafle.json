@@ -392,6 +392,38 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.7",
+        "category": "warsztaty",
+        "image": "assets/35_7.webp",
+        "title": "Wiadro z wodą do kuźni",
+        "subtitle": "Wiadro z woda do kuzni",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.8",
+        "category": "warsztaty",
+        "image": "assets/35_8.webp",
+        "title": "Osełka do kuźni",
+        "subtitle": "Oselka do kuzni",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.9",
+        "category": "warsztaty",
+        "image": "assets/35_9.webp",
+        "title": "Piec do kuźni",
+        "subtitle": "Piec do kuzni",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.10",
+        "category": "warsztaty",
+        "image": "assets/35_10.webp",
+        "title": "Stół do mieczy",
+        "subtitle": "Stół do mieczy",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.webp",
