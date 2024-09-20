@@ -74,7 +74,7 @@
     {
         "id": "product8.5",
         "category": "tables",
-        "image": "assets/8_5.png",
+        "image": "assets/8_5.webp",
         "title": "Mały portowy stolik",
         "subtitle": "Mały portowy stolik",
         "description": "Tier 13"
@@ -530,7 +530,7 @@
     {
         "id": "product40",
         "category": "tables",
-        "image": "assets/40.png",
+        "image": "assets/null.webp",
         "title": "Mały stoliczek",
         "subtitle": "Maly stoliczek",
         "description": "Tier 45"
@@ -542,6 +542,14 @@
         "title": "Ławka obozowa",
         "subtitle": "Lawka obozowa",
         "description": "Tier 46"
+    },
+    {
+        "id": "product41.5",
+        "category": "tables",
+        "image": "assets/41_5.webp",
+        "title": "Stolik z beczki",
+        "subtitle": "Stolik z beczki",
+        "description": "Tier 48"
     },
     {
         "id": "product42",
