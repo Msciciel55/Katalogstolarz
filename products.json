@@ -1226,6 +1226,20 @@
     "price": "x monet"
   },
   {
+    "id": "product57.5",
+    "name": "Prostokątny stół z Archolos",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Klej",
+      "Paczk gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/57_5.webp?raw=true",
+    "price": "x monet"
+  },
+  {
     "id": "product58",
     "name": "Mała lada sklepowa",
     "ingredients": [
