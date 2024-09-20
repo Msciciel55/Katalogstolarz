@@ -117,6 +117,20 @@
     "price": "x monet"
   },
   {
+    "id": "product8.5",
+    "name": "Mały portowy stolik",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Pocięte drewna brzozy",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/8_5.webp",
+    "price": "x monet"
+  },
+  {
     "id": "product9",
     "name": "Słaba skrzynia",
     "ingredients": [
