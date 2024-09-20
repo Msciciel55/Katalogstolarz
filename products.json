@@ -959,7 +959,7 @@
       "Oleje rybne"
     ],
     "description": "",
-    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/40.webp",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp",
     "price": "x monet"
   },
   {
@@ -976,7 +976,21 @@
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/41.webp",
     "price": "x monet"
   },
-    {
+  {
+    "id": "product41.5",
+    "name": "Stolik z beczki",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/40.webp",
+    "price": "x monet"
+  },
+  {
     "id": "product42",
     "name": "Skrzynka zrobiona na stolik",
     "ingredients": [
