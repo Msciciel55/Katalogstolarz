@@ -1,12 +1,4 @@
 [
-{
-  "id": "tent1",
-  "title": "",
-  "image": "assets/1_5.webp",
-  "category": "",
-  "subcategory": "namioty",
-  "description": ""
-},
     {
         "id": "product1",
         "category": "beds",
