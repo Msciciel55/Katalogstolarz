@@ -1,1 +1,10 @@
-
+[
+    {
+        "id": "product1",
+        "category": "tents",
+        "image": "assets/1.png",
+        "title": "tttt",
+        "subtitle": "ttt",
+        "description": "Tier 1"
+    }
+]
