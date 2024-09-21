@@ -1,10 +1,10 @@
 [
     {
-        "id": "budowa1",
+        "id": "budowa0",
         "category": "namioty",
-        "image": "assets/1.png",
-        "title": "tttt",
-        "subtitle": "ttt",
-        "description": "Tier 1"
+        "image": "assets/null.webp",
+        "title": "WIP",
+        "subtitle": "",
+        "description": ""
     }
 ]
