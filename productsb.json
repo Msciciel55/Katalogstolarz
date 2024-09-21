@@ -1,14 +1,12 @@
 [
   {
-    "id": "product1",
-    "name": "Łóżko z slumsów",
+    "id": "budowla1",
+    "name": "Namiot 1",
     "ingredients": [
       "Potrzebne materiały:",
       "Deski brzozowe",
       "Jutowe tkaniny"
     ],
-    "description": "Regeneracja staminy: 0.25/s",
-    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/1.webp",
-    "price": "x monet"
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/budowla1.webp",
   }
 ]
