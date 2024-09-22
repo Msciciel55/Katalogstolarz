@@ -102,6 +102,19 @@
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/7.webp",
     "price": "x monet"
   },
+    {
+    "id": "product7.5",
+    "name": "Biedny parawan",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe",
+      "Nici",
+      "Jutowe tkaniny"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/7_5.webp",
+    "price": "x monet"
+  },
   {
     "id": "product8",
     "name": "Pospolity stół mieszkańca",
@@ -234,6 +247,19 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/14.webp",
+    "price": "x monet"
+  },
+    {
+    "id": "product14.5",
+    "name": "Parawan",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Nici",
+      "Jutowe tkaniny"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/14_5.webp",
     "price": "x monet"
   },
   {
