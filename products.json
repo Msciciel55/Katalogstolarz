@@ -9,11 +9,11 @@
     ],
     "description": "Regeneracja staminy: 0.25/s",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/1.webp",
-    "price": "x monet"
+    "price": "100 monet"
   },
   {
     "id": "product1.5",
-    "name": "Łóżko z slumsów",
+    "name": "Wędka",
     "ingredients": [
       "Potrzebne materiały:",
       "Długi prosty kij",
@@ -21,7 +21,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/1_5.webp",
-    "price": "x monet"
+    "price": "30 monet"
   },
   {
     "id": "product2",
@@ -34,7 +34,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/2.webp",
-    "price": "x monet"
+    "price": "60 monet"
   },
   {
     "id": "product3",
@@ -47,7 +47,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/3.webp",
-    "price": "x monet"
+    "price": "80 monet"
   },
   {
     "id": "product4",
@@ -60,7 +60,7 @@
     ],
     "description": "Pojemność: 300kg (BEZKLUCZA)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/4.webp",
-    "price": "x monet"
+    "price": "200 monet"
   },
   {
     "id": "product5",
@@ -74,7 +74,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/5.webp",
-    "price": "x monet"
+    "price": "100 monet"
   },
   {
     "id": "product6",
@@ -87,7 +87,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/6.webp",
-    "price": "x monet"
+    "price": "150 monet"
   },
   {
     "id": "product7",
@@ -100,7 +100,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/7.webp",
-    "price": "x monet"
+    "price": "100 monet"
   },
     {
     "id": "product7.5",
@@ -127,7 +127,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/8.webp",
-    "price": "x monet"
+    "price": "120 monet"
   },
   {
     "id": "product8.5",
@@ -141,7 +141,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/8_5.webp",
-    "price": "x monet"
+    "price": "120 monet"
   },
   {
     "id": "product9",
@@ -155,7 +155,7 @@
     ],
     "description": "Pojemność: 100kg (KLUCZ)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/9.webp",
-    "price": "x monet"
+    "price": "300 monet"
   },
   {
     "id": "product10",
@@ -169,7 +169,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/10.webp",
-    "price": "x monet"
+    "price": "250 monet"
   },
     {
     "id": "product10.5",
@@ -193,7 +193,7 @@
     ],
     "description": "Pojemność: 300kg (BEZKLUCZA)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/11.webp",
-    "price": "x monet"
+    "price": "300 monet"
   },
     {
     "id": "product11.5",
@@ -206,7 +206,7 @@
     ],
     "description": "Pojemność: 500kg (BEZKLUCZA)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/11_5.webp",
-    "price": "x monet"
+    "price": "400 monet"
   },
   {
     "id": "product12",
@@ -220,7 +220,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/12.webp",
-    "price": "x monet"
+    "price": "200 monet"
   },
   {
     "id": "product13",
@@ -234,7 +234,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/13.webp",
-    "price": "x monet"
+    "price": "130 monet"
   },
   {
     "id": "product14",
@@ -247,7 +247,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/14.webp",
-    "price": "x monet"
+    "price": "120 monet"
   },
     {
     "id": "product14.5",
@@ -273,7 +273,7 @@
     ],
     "description": "Pojemność: 500kg (BEZKLUCZA)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/15.webp",
-    "price": "x monet"
+    "price": "450 monet"
   },
   {
     "id": "product16",
@@ -288,11 +288,11 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/16.webp",
-    "price": "x monet"
+    "price": "220 monet"
   },
   {
     "id": "product16.5",
-    "name": "Duży pospolity stół mieszkańca",
+    "name": "Łóżko myśliwego",
     "ingredients": [
       "Potrzebne materiały:",
       "Deski topoli",
@@ -304,7 +304,7 @@
     ],
     "description": "Regeneracja staminy: 0.30/s",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/16_5.webp?raw=true",
-    "price": "x monet"
+    "price": "400 monet"
   },
   {
     "id": "product17",
@@ -318,7 +318,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/17.webp",
-    "price": "x monet"
+    "price": "300 monet"
   },
   {
     "id": "product18",
@@ -332,7 +332,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/18.webp",
-    "price": "x monet"
+    "price": "150 monet"
   },
   {
     "id": "product19",
@@ -347,7 +347,7 @@
     ],
     "description": "Pojemność: 200kg (KLUCZ)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/19.webp",
-    "price": "x monet"
+    "price": "600 monet"
   },
     {
     "id": "product20",
@@ -361,7 +361,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/20.webp",
-    "price": "x monet"
+    "price": "200 monet"
   },
     {
     "id": "product21",
@@ -375,7 +375,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/21.webp",
-    "price": "x monet"
+    "price": "200 monet"
   },
     {
     "id": "product22",
@@ -389,7 +389,7 @@
     ],
     "description": "Pojemność: 600kg (BEZKLUCZA)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/22.webp",
-    "price": "x monet"
+    "price": "650 monet"
   },
     {
     "id": "product23",
@@ -403,7 +403,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/23.webp",
-    "price": "x monet"
+    "price": "200 monet"
   },
   {
     "id": "product24",
@@ -417,7 +417,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/24.webp",
-    "price": "x monet"
+    "price": "200 monet"
   },
   {
     "id": "product24.5",
@@ -448,7 +448,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/25.webp",
-    "price": "x monet"
+    "price": "230 monet"
   },
     {
     "id": "product26",
@@ -462,7 +462,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/26.webp",
-    "price": "x monet"
+    "price": "230 monet"
   },
     {
     "id": "product27",
@@ -476,7 +476,7 @@
     ],
     "description": "Pora umierać",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/27.webp",
-    "price": "x monet"
+    "price": "250 monet"
   },
     {
     "id": "product28",
@@ -491,7 +491,7 @@
     ],
     "description": "Regeneracja staminy: 0.34/s",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/28.webp",
-    "price": "x monet"
+    "price": "550 monet"
   },
   {
     "id": "product29",
@@ -505,7 +505,7 @@
     ],
     "description": "Pora umierać",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/29.webp",
-    "price": "x monet"
+    "price": "250 monet"
   },
   {
     "id": "product30",
@@ -520,7 +520,7 @@
     ],
     "description": "Pojemność: 250kg (KLUCZ)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/30.webp",
-    "price": "x monet"
+    "price": "800 monet"
   },
   {
     "id": "product31",
@@ -534,7 +534,7 @@
     ],
     "description": "Regeneracja staminy: (NIEZNANE)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/31.webp",
-    "price": "x monet"
+    "price": "250 monet"
   },
   {
     "id": "product32",
@@ -550,7 +550,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/32.webp",
-    "price": "x monet"
+    "price": "330 monet"
   },
   {
     "id": "product33",
@@ -565,7 +565,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/33.webp",
-    "price": "x monet"
+    "price": "260 monet"
   },
   {
     "id": "product34",
@@ -579,7 +579,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/34.webp",
-    "price": "x monet"
+    "price": "250 monet"
   },
     {
     "id": "product35",
@@ -593,7 +593,7 @@
     ],
     "description": "Regeneracja staminy: (NIEZNANE)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35.webp",
-    "price": "x monet"
+    "price": "240 monet"
   },
     {
     "id": "product35.x",
@@ -608,7 +608,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_x.webp",
-    "price": "x monet"
+    "price": "1200 monet"
   },
     {
     "id": "product35.1",
@@ -624,7 +624,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_1.webp",
-    "price": "x monet"
+    "price": "2500 monet"
   },
     {
     "id": "product35.2",
@@ -640,7 +640,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_2.webp",
-    "price": "x monet"
+    "price": "2200 monet"
   },
     {
     "id": "product35.3",
@@ -655,7 +655,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_3.webp",
-    "price": "x monet"
+    "price": "4000 monet"
   },
     {
     "id": "product35.4",
@@ -670,7 +670,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_4.webp",
-    "price": "x monet"
+    "price": "1500 monet"
   },
   {
     "id": "product35.5",
@@ -685,7 +685,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_5.webp",
-    "price": "x monet"
+    "price": "4000 monet"
   },
   {
     "id": "product35.5a",
@@ -700,7 +700,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_5a.webp",
-    "price": "x monet"
+    "price": "2700 monet"
   },
   {
     "id": "product35.5b",
@@ -716,7 +716,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_5b.webp",
-    "price": "x monet"
+    "price": "2200 monet"
   },
   {
     "id": "product35.6",
@@ -732,7 +732,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_6.webp?raw=true",
-    "price": "x monet"
+    "price": "3000 monet"
   },
   {
     "id": "product35.7",
@@ -745,7 +745,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_7.webp?raw=true",
-    "price": "x monet"
+    "price": "500 monet"
   },
   {
     "id": "product35.8",
@@ -759,7 +759,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_8.webp?raw=true",
-    "price": "x monet"
+    "price": "1000 monet"
   },
   {
     "id": "product35.9",
@@ -775,7 +775,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_9.webp?raw=true",
-    "price": "x monet"
+    "price": "3500 monet"
   },
   {
     "id": "product35.10",
@@ -790,7 +790,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_10.webp?raw=true",
-    "price": "x monet"
+    "price": "3500 monet"
   },
   {
     "id": "product35.11",
@@ -806,7 +806,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_11.webp?raw=true",
-    "price": "x monet"
+    "price": "3500 monet"
   },
   {
     "id": "product35.12",
@@ -822,7 +822,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_12.webp?raw=true",
-    "price": "x monet"
+    "price": "3500 monet"
   },
   {
     "id": "product35.13",
@@ -837,7 +837,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_13.webp?raw=true",
-    "price": "x monet"
+    "price": "2500 monet"
   },
   {
     "id": "product35.14",
@@ -853,7 +853,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_14.webp?raw=true",
-    "price": "x monet"
+    "price": "2500 monet"
   },
   {
     "id": "product35.15",
@@ -869,7 +869,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_15.webp?raw=true",
-    "price": "x monet"
+    "price": "3000 monet"
   },
   {
     "id": "product35.16",
@@ -884,7 +884,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_16.webp?raw=true",
-    "price": "x monet"
+    "price": "2500 monet"
   },
   {
     "id": "product35.17",
@@ -899,7 +899,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_17.webp?raw=true",
-    "price": "x monet"
+    "price": "2500 monet"
   },
   {
     "id": "product35.18",
@@ -914,7 +914,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_18.webp?raw=true",
-    "price": "x monet"
+    "price": "3000 monet"
   },
   {
     "id": "product36",
@@ -928,7 +928,7 @@
     ],
     "description": "Regeneracja staminy: (NIEZNANE)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/36.webp",
-    "price": "x monet"
+    "price": "280 monet"
   },
   {
     "id": "product37",
@@ -943,7 +943,7 @@
     ],
     "description": "Pojemność: 300kg (KLUCZ)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/37.webp",
-    "price": "x monet"
+    "price": "1000 monet"
   },
   {
     "id": "product38",
@@ -957,7 +957,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/38.webp",
-    "price": "x monet"
+    "price": "300 monet"
   },
   {
     "id": "product39",
@@ -972,7 +972,7 @@
     ],
     "description": "Regeneracja staminy: 0.39/s",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/39.webp",
-    "price": "x monet"
+    "price": "700 monet"
   },
   {
     "id": "product40",
@@ -986,7 +986,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp",
-    "price": "x monet"
+    "price": "300 monet"
   },
   {
     "id": "product41",
@@ -1000,7 +1000,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/41.webp",
-    "price": "x monet"
+    "price": "250 monet"
   },
   {
     "id": "product41.5",
@@ -1014,7 +1014,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/40.webp",
-    "price": "x monet"
+    "price": "270 monet"
   },
   {
     "id": "product42",
@@ -1028,7 +1028,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/42.webp",
-    "price": "x monet"
+    "price": "300 monet"
   },
   {
     "id": "product43",
@@ -1043,7 +1043,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/43.webp",
-    "price": "x monet"
+    "price": "1000 monet"
   },
   {
     "id": "product44",
@@ -1059,11 +1059,11 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/44.webp?raw=true",
-    "price": "x monet"
+    "price": "900 monet"
   },
   {
     "id": "product45",
-    "name": "Wygodny taboret\n(animacja pisania)",
+    "name": "Wygodny taboret",
     "ingredients": [
       "Potrzebne materiały:",
       "Deski dębowe",
@@ -1073,7 +1073,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/45.webp?raw=true",
-    "price": "x monet"
+    "price": "280 monet"
   },
   {
     "id": "product47",
@@ -1101,7 +1101,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/48.webp?raw=true",
-    "price": "x monet"
+    "price": "280 monet"
   },
   {
     "id": "product46",
@@ -1115,7 +1115,7 @@
     ],
     "description": "Pojemność: 800kg (BEZKLUCZA)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/46.webp?raw=true",
-    "price": "x monet"
+    "price": "700 monet"
   },
   {
     "id": "product49",
@@ -1129,7 +1129,7 @@
     ],
     "description": "Pojemność: 600kg (BEZKLUCZA)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/49.webp?raw=true",
-    "price": "x monet"
+    "price": "500 monet"
   },
   {
     "id": "product50",
@@ -1145,7 +1145,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/50.webp?raw=true",
-    "price": "x monet"
+    "price": "1000 monet"
   },
   {
     "id": "product51",
@@ -1160,11 +1160,11 @@
     ],
     "description": "Pojemność: 350kg (KLUCZ)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/51.webp?raw=true",
-    "price": "x monet"
+    "price": "1200 monet"
   },
   {
     "id": "product51.5",
-    "name": "Prosta drewniana skrzynia",
+    "name": "Świerkowa beczka",
     "ingredients": [
       "Potrzebne materiały:",
       "Deski dębowe",
@@ -1173,7 +1173,7 @@
     ],
     "description": "Robiona z dębu",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/51_5.webp?raw=true",
-    "price": "x monet"
+    "price": "250 monet"
   },
   {
     "id": "product52",
@@ -1189,7 +1189,7 @@
     ],
     "description": "Regeneracja staminy: 0.45/s",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/52.webp?raw=true",
-    "price": "x monet"
+    "price": "1100 monet"
   },
   {
     "id": "product53",
@@ -1203,7 +1203,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/53.webp?raw=true",
-    "price": "x monet"
+    "price": "400 monet"
   },
   {
     "id": "product54",
@@ -1218,7 +1218,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/54.webp?raw=true",
-    "price": "x monet"
+    "price": "700 monet"
   },
   {
     "id": "product55",
@@ -1233,7 +1233,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/55.webp?raw=true",
-    "price": "x monet"
+    "price": "700 monet"
   },
   {
     "id": "product56",
@@ -1248,7 +1248,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/56.webp?raw=true",
-    "price": "x monet"
+    "price": "270 monet"
   },
   {
     "id": "product57",
@@ -1263,7 +1263,7 @@
     ],
     "description": "Pojemność: 400kg (KLUCZ)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/57.webp?raw=true",
-    "price": "x monet"
+    "price": "1400 monet"
   },
   {
     "id": "product57.5",
