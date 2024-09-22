@@ -64,6 +64,14 @@
         "description": "Tier 10"
     },
     {
+        "id": "product7.5",
+        "category": "dekoracja",
+        "image": "assets/7.5.png",
+        "title": "Biedny parawan",
+        "subtitle": "Biedny parawan",
+        "description": "Tier 10"
+    },
+    {
         "id": "product8",
         "category": "tables",
         "image": "assets/8.png",
