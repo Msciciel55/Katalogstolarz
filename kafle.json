@@ -152,6 +152,14 @@
         "description": "Tier 20"
     },
     {
+        "id": "product14.5",
+        "category": "dekoracje",
+        "image": "assets/14_5.png",
+        "title": "Parawan",
+        "subtitle": "Parawan",
+        "description": "Tier 20"
+    },
+    {
         "id": "product15",
         "category": "skrzynie",
         "image": "assets/15.png",
