@@ -153,7 +153,7 @@
     },
     {
         "id": "product14.5",
-        "category": "dekoracje",
+        "category": "dekoracja",
         "image": "assets/14_5.png",
         "title": "Parawan",
         "subtitle": "Parawan",
@@ -305,7 +305,7 @@
     },
     {
         "id": "product31",
-        "category": "siedzisko",
+        "category": "siedziska",
         "image": "assets/31.png",
         "title": "Prowizoryczne krzesło",
         "subtitle": "Prowizoryczne krzeslo",
@@ -337,7 +337,7 @@
     },
     {
         "id": "product35",
-        "category": "siedzisko",
+        "category": "siedziska",
         "image": "assets/35.png",
         "title": "Wyborny taboret",
         "subtitle": "Wyborny taboret",
@@ -553,7 +553,7 @@
     },
     {
         "id": "product41",
-        "category": "siedzisko",
+        "category": "siedziska",
         "image": "assets/41.png",
         "title": "Ławka obozowa",
         "subtitle": "Lawka obozowa",
@@ -734,5 +734,45 @@
         "title": "Skórzane krzesło",
         "subtitle": "Skorzane krzeslo",
         "description": "Tier 65"
+    },
+    {
+        "id": "product61",
+        "category": "dekoracja",
+        "image": "assets/61.webp",
+        "title": "Tymorysińska komoda",
+        "subtitle": "Tymorysinska komoda",
+        "description": "Tier 65"
+    },
+    {
+        "id": "product62",
+        "category": "skrzynie",
+        "image": "assets/null.webp",
+        "title": "Dobrze zdobiona skrzynia",
+        "subtitle": "Dobrze zdobiona skrzynia",
+        "description": "Tier 66"
+    },
+    {
+        "id": "product63",
+        "category": "siedziska",
+        "image": "assets/null.webp",
+        "title": "Szlachecka ławka",
+        "subtitle": "Szlachecka lawka",
+        "description": "Tier 67"
+    },
+    {
+        "id": "product64",
+        "category": "dekoracja",
+        "image": "assets/null.webp",
+        "title": "Stanowisko do prezentowania mikstur",
+        "subtitle": "Stanowisko do prezentowania mikstur",
+        "description": "Tier 67"
+    },
+    {
+        "id": "product65",
+        "category": "beds",
+        "image": "assets/null.webp",
+        "title": "Lepsza drewniana wanna",
+        "subtitle": "Lepsza drewniana wanna",
+        "description": "Tier 70"
     }
 ]
