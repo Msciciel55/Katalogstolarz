@@ -113,7 +113,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/7_5.webp",
-    "price": "x monet"
+    "price": "170 monet"
   },
   {
     "id": "product8",
@@ -260,7 +260,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/14_5.webp",
-    "price": "x monet"
+    "price": "250 monet"
   },
   {
     "id": "product15",
@@ -1087,7 +1087,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/47.webp?raw=true",
-    "price": "x monet"
+    "price": "350 monet"
   },
     {
     "id": "product48",
@@ -1277,7 +1277,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/57_5.webp?raw=true",
-    "price": "x monet"
+    "price": "400 monet"
   },
   {
     "id": "product58",
@@ -1334,7 +1334,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/61.webp?raw=true",
-    "price": "x monet"
+    "price": "380 monet"
   },
   {
     "id": "product62",
@@ -1349,7 +1349,7 @@
     ],
     "description": "Pojemność: (NIEZNANE)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
-    "price": "x monet"
+    "price": "1600 monet"
   },
   {
     "id": "product63",
@@ -1363,7 +1363,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
-    "price": "x monet"
+    "price": "400 monet"
   },
   {
     "id": "product64",
@@ -1378,7 +1378,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
-    "price": "x monet"
+    "price": "430 monet"
   },
   {
     "id": "product65",
@@ -1392,6 +1392,6 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
-    "price": "x monet"
+    "price": "1100 monet"
   }
 ]
