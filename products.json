@@ -1321,6 +1321,77 @@
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/60.webp?raw=true",
     "price": "x monet"
+  },
+  {
+    "id": "product61",
+    "name": "Tymoryńska komoda",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/61.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product62",
+    "name": "Dobrze zrobiona skrzynia",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Stalowe pręty",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: (NIEZNANE)",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product63",
+    "name": "Szlachecka ławka",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Klej",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product64",
+    "name": "Stanowisko do prezentowania mikstur",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Klej",
+      "Paczka gwoździ",
+      "Żelazny pręt",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product65",
+    "name": "Lepsza drewniana wanna",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Sadła"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
+    "price": "x monet"
   }
-  
 ]
