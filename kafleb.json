@@ -2,9 +2,73 @@
     {
         "id": "budowla1",
         "category": "namioty",
-        "image": "assets/null.webp",
+        "image": "assets/b1.webp",
         "title": "Namiot 1",
         "subtitle": "1",
+        "description": ""
+    },
+    {
+        "id": "budowla2",
+        "category": "namioty",
+        "image": "assets/b2.webp",
+        "title": "Namiot 2",
+        "subtitle": "2",
+        "description": ""
+    },
+    {
+        "id": "budowla3",
+        "category": "namioty",
+        "image": "assets/b3.webp",
+        "title": "Namiot 3",
+        "subtitle": "3",
+        "description": ""
+    },
+    {
+        "id": "budowla4",
+        "category": "namioty",
+        "image": "assets/b4.webp",
+        "title": "Namiot 4",
+        "subtitle": "4",
+        "description": ""
+    },
+    {
+        "id": "budowla5",
+        "category": "namioty",
+        "image": "assets/b5.webp",
+        "title": "Namiot 5",
+        "subtitle": "5",
+        "description": ""
+    },
+    {
+        "id": "budowla6",
+        "category": "namioty",
+        "image": "assets/b6.webp",
+        "title": "Namiot 6",
+        "subtitle": "6",
+        "description": ""
+    },
+    {
+        "id": "budowla7",
+        "category": "namioty",
+        "image": "assets/b7.webp",
+        "title": "Namiot 7",
+        "subtitle": "7",
+        "description": ""
+    },
+    {
+        "id": "budowla8",
+        "category": "namioty",
+        "image": "assets/b8.webp",
+        "title": "Namiot 8",
+        "subtitle": "8",
+        "description": ""
+    },
+    {
+        "id": "budowla9",
+        "category": "namioty",
+        "image": "assets/b9.webp",
+        "title": "Namiot 9",
+        "subtitle": "9",
         "description": ""
     }
 ]
