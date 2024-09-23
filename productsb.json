@@ -12,5 +12,117 @@
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b1.webp",
     "price": ""
+  },
+  {
+    "id": "budowla2",
+    "name": "Namiot 2",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (6)",
+      "Jutowa tkanina (10)",
+      "Nici (4)",
+      "Zestaw do szycia"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b2.webp",
+    "price": ""
+  },
+  {
+    "id": "budowla3",
+    "name": "Namiot 3",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (6)",
+      "Jutowa tkanina (10)",
+      "Nici (4)",
+      "Zestaw do szycia"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b3.webp",
+    "price": ""
+  },
+  {
+    "id": "budowla4",
+    "name": "Namiot 4",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (6)",
+      "Jutowa tkanina (10)",
+      "Nici (4)",
+      "Zestaw do szycia"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b4.webp",
+    "price": ""
+  },
+  {
+    "id": "budowla5",
+    "name": "Namiot 5",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (6)",
+      "Jutowa tkanina (10)",
+      "Nici (4)",
+      "Zestaw do szycia"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b5.webp",
+    "price": ""
+  },
+  {
+    "id": "budowla6",
+    "name": "Namiot 6",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (6)",
+      "Jutowa tkanina (10)",
+      "Nici (4)",
+      "Zestaw do szycia"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b6.webp",
+    "price": ""
+  },
+  {
+    "id": "budowla7",
+    "name": "Namiot 7",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (8)",
+      "Jutowa tkanina (20)",
+      "Nici (4)",
+      "Zestaw do szycia"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b7.webp",
+    "price": ""
+  },
+  {
+    "id": "budowla8",
+    "name": "Namiot 8",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (12)",
+      "Jutowa tkanina (30)",
+      "Nici (6)",
+      "Zestaw do szycia"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b8.webp",
+    "price": ""
+  }
+  {
+    "id": "budowla9",
+    "name": "Namiot 9",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (8)",
+      "Jutowa tkanina (20)",
+      "Nici (4)",
+      "Zestaw do szycia"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/b9.webp",
+    "price": ""
   }
 ]
