@@ -917,6 +917,66 @@
     "price": "3000 monet"
   },
   {
+    "id": "product35.19",
+    "name": "Pieniek drwala",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Pniak dębowy",
+      "Siekiera",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_19.webp?raw=true",
+    "price": "1200 monet"
+  },
+  {
+    "id": "product35.20",
+    "name": "Stanowisko drwala",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczki gwoździ",
+      "Siekiery",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_20.webp?raw=true",
+    "price": "1700 monet"
+  },
+  {
+    "id": "product35.21",
+    "name": "Stół do mebli",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kije",
+      "Paczki gwoździ",
+      "Młotek",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_21.webp?raw=true",
+    "price": "3500 monet"
+  },
+  {
+    "id": "product35.22",
+    "name": "Stół do warsztatów",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kije",
+      "Paczki gwoździ",
+      "Młotek",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_22.webp?raw=true",
+    "price": "3500 monet"
+  },
+  {
     "id": "product36",
     "name": "Duży stojak na wina",
     "ingredients": [
