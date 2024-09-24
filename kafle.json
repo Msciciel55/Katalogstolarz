@@ -576,6 +576,22 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.27",
+        "category": "warsztaty",
+        "image": "assets/35_27.webp",
+        "title": "Stół do trofeów",
+        "subtitle": "Stol do trofeow",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.28",
+        "category": "warsztaty",
+        "image": "assets/35_28.webp",
+        "title": "Stół do skórowania",
+        "subtitle": "Stół do skórowania",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.webp",
