@@ -592,6 +592,22 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.29",
+        "category": "warsztaty",
+        "image": "assets/35_29.webp",
+        "title": "Kadź do piwa",
+        "subtitle": "Kadz do piwa",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.30",
+        "category": "warsztaty",
+        "image": "assets/35_30.webp",
+        "title": "Destylator",
+        "subtitle": "Destylator",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.webp",
