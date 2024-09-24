@@ -376,6 +376,14 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.6",
+        "category": "warsztaty",
+        "image": "assets/35_6.png",
+        "title": "Piec do wypieków",
+        "subtitle": "Piec do wypieków",
+        "description": "Tier 40"
+    },
+    {
         "id": "product35.4",
         "category": "warsztaty",
         "image": "assets/35_4.png",
@@ -405,14 +413,6 @@
         "image": "assets/35_5b.png",
         "title": "Stół do amunicji",
         "subtitle": "Stol do amunicji",
-        "description": "Tier 40"
-    },
-    {
-        "id": "product35.6",
-        "category": "warsztaty",
-        "image": "assets/35_6.png",
-        "title": "Piec do wypieków",
-        "subtitle": "Piec do wypieków",
         "description": "Tier 40"
     },
     {
