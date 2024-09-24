@@ -977,6 +977,50 @@
     "price": "3500 monet"
   },
   {
+    "id": "product35.23",
+    "name": "Kuchenka do zup",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Sztaby stali",
+      "Stalowe blachy",
+      "Wiadro nitów"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_23.webp?raw=true",
+    "price": "3000 monet"
+  },
+  {
+    "id": "product35.24",
+    "name": "Kamienna kuchenka",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Kamień budowlany",
+      "Kamienie wapienne",
+      "Sztaby stali",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/null.webp?raw=true",
+    "price": "2500 monet"
+  },
+  {
+    "id": "product35.25",
+    "name": "Ruszt do ryb",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Sztaby stali",
+      "Stalowe pręty",
+      "Stalowe blachy",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_25.webp?raw=true",
+    "price": "3000 monet"
+  },
+  {
     "id": "product36",
     "name": "Duży stojak na wina",
     "ingredients": [
