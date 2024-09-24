@@ -512,6 +512,38 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.19",
+        "category": "warsztaty",
+        "image": "assets/35_19.webp",
+        "title": "Pieniek drwala",
+        "subtitle": "Pieniek drwala",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.20",
+        "category": "warsztaty",
+        "image": "assets/35_20.webp",
+        "title": "Stanowisko drwali",
+        "subtitle": "Stanowisko drwali",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.21",
+        "category": "warsztaty",
+        "image": "assets/35_21.webp",
+        "title": "Stół do mebli",
+        "subtitle": "Stol do mebli",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.22",
+        "category": "warsztaty",
+        "image": "assets/35_22.webp",
+        "title": "Stół do warsztatów",
+        "subtitle": "Stol do warsztatow",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.webp",
