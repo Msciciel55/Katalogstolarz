@@ -376,6 +376,30 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.25",
+        "category": "warsztaty",
+        "image": "assets/35_25.webp",
+        "title": "Ruszt do ryb",
+        "subtitle": "Ruszt do ryb",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.23",
+        "category": "warsztaty",
+        "image": "assets/35_23.webp",
+        "title": "Kuchenka do zup",
+        "subtitle": "Kuchenka do zup",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.24",
+        "category": "warsztaty",
+        "image": "assets/null.webp",
+        "title": "Kamienna kuchenka",
+        "subtitle": "Kamienna kuchenka",
+        "description": "Tier 40"
+    },
+    {
         "id": "product35.6",
         "category": "warsztaty",
         "image": "assets/35_6.png",
