@@ -1036,6 +1036,38 @@
     "price": "3000 monet"
   },
   {
+    "id": "product35.27",
+    "name": "Stół do trofeów",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczki gowździ",
+      "Skóry dzika",
+      "Nóż",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_27.webp?raw=true",
+    "price": "3700 monet"
+  },
+  {
+    "id": "product35.28",
+    "name": "Stół do skórowania",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczki gowździ",
+      "Skóry dzika",
+      "Nóż",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_28.webp?raw=true",
+    "price": "3200 monet"
+  },
+  {
     "id": "product36",
     "name": "Duży stojak na wina",
     "ingredients": [
