@@ -367,6 +367,14 @@
         "subtitle": "Stol rzezniczy",
         "description": "Tier 40"
     },
+        {
+        "id": "product35.25",
+        "category": "warsztaty",
+        "image": "assets/35_25.webp",
+        "title": "Stół do filetowania",
+        "subtitle": "Stol do filetowania",
+        "description": "Tier 40"
+    },
     {
         "id": "product35.3",
         "category": "warsztaty",
