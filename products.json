@@ -1021,6 +1021,21 @@
     "price": "3000 monet"
   },
   {
+    "id": "product35.26",
+    "name": "Ruszt do ryb",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczki gowździ",
+      "Tasak do ryb",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_26.webp?raw=true",
+    "price": "3000 monet"
+  },
+  {
     "id": "product36",
     "name": "Duży stojak na wina",
     "ingredients": [
