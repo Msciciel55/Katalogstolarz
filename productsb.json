@@ -1,5 +1,102 @@
 [
   {
+    "id": "usluga1",
+    "name": "Drzwi brzozowe",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski brzozowe (10)",
+      "Paczka gwoździ",
+      "Żelazny pręt",
+      "Części zamka",
+      "Olej rybny (5)"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/drzwi1.webp",
+    "price": "250 monet"
+  },
+  {
+    "id": "usluga2",
+    "name": "Drzwi topolowe",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli (10)",
+      "Paczka gwoździ",
+      "Żelazny pręt",
+      "Części zamka",
+      "Olej rybny (5)"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/drzwi2.webp",
+    "price": "300 monet"
+  },
+    {
+    "id": "usluga3",
+    "name": "Drzwi dębowe",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe (10)",
+      "Paczka gwoździ",
+      "Żelazny pręt",
+      "Części zamka",
+      "Olej rybny (5)"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/drzwi3.webp",
+    "price": "400 monet"
+  },
+    {
+    "id": "usluga4",
+    "name": "Drzwi sosnowe",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe (10)",
+      "Paczka gwoździ",
+      "Żelazny pręt",
+      "Części zamka",
+      "Olej rybny (5)"
+    ],
+    "description": "Nie wiem jak wyglądają.",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/null.webp",
+    "price": "500 monet"
+  },
+    {
+    "id": "usluga5",
+    "name": "Drzwi hebanowe",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski hebanowe (10)",
+      "Paczka gwoździ",
+      "Żelazny pręt",
+      "Części zamka",
+      "Olej rybny (5)"
+    ],
+    "description": "Heban dobro importowane",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/drzwi5.webp",
+    "price": "1700 monet"
+  },
+  {
+    "id": "usluga6",
+    "name": "Wymiana zamków z kluczem",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Części zamak (2)"
+    ],
+    "description": "Materiały do oddania adminowi",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/uslugi.webp",
+    "price": "80 monet"
+  },
+  {
+    "id": "usluga7",
+    "name": "Wymiana zamków bez klucza",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Części zamak (2)"
+    ],
+    "description": "Materiały do oddania adminowi",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/bwebp/uslugi.webp",
+    "price": "100 monet"
+  },
+  {
     "id": "budowla1",
     "name": "Namiot 1",
     "ingredients": [
