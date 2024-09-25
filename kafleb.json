@@ -71,4 +71,12 @@
         "subtitle": "9",
         "description": ""
     }
+    {
+        "id": "budowlax",
+        "category": "all",
+        "image": "assets/null.webp",
+        "title": "CDN",
+        "subtitle": "",
+        "description": "Kiedy? nie wiem"
+    }
 ]
