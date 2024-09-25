@@ -1,5 +1,61 @@
 [
     {
+        "id": "usluga1",
+        "category": "uslugi",
+        "image": "assets/drzwi1.webp",
+        "title": "Drzwi brzozowe",
+        "subtitle": "brzozowe",
+        "description": ""
+    },
+    {
+        "id": "usluga2",
+        "category": "uslugi",
+        "image": "assets/drzwi2.webp",
+        "title": "Drzwi topolowe",
+        "subtitle": "topola",
+        "description": ""
+    },
+    {
+        "id": "usluga3",
+        "category": "uslugi",
+        "image": "assets/drzwi3.webp",
+        "title": "Drzwi dębowe",
+        "subtitle": "debowe",
+        "description": ""
+    },
+    {
+        "id": "usluga4",
+        "category": "uslugi",
+        "image": "assets/null.webp",
+        "title": "Drzwi sosnowe",
+        "subtitle": "sosna",
+        "description": "Admin nie pamięta jak wyglądają"
+    },
+    {
+        "id": "usluga5",
+        "category": "uslugi",
+        "image": "assets/drzwi5.webp",
+        "title": "Drzwi hebanowe",
+        "subtitle": "heban",
+        "description": ""
+    },
+     {
+        "id": "usluga6",
+        "category": "uslugi",
+        "image": "assets/uslugi.webp",
+        "title": "Wymiana zamków w przypadku posiadania klucza",
+        "subtitle": "zamkow",
+        "description": ""
+    },
+     {
+        "id": "usluga7",
+        "category": "uslugi",
+        "image": "assets/uslugi.webp",
+        "title": "Wymiana zamków w przypadku braku klucza",
+        "subtitle": "zamkow",
+        "description": ""
+    },
+    {
         "id": "budowla1",
         "category": "namioty",
         "image": "assets/b1.webp",
