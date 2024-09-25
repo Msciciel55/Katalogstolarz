@@ -288,7 +288,7 @@
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/16.webp",
-    "price": "220 "
+    "price": "200"
   },
   {
     "id": "product16.5",
@@ -305,6 +305,20 @@
     "description": "Regeneracja staminy: 0.30/s",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/16_5.webp?raw=true",
     "price": "400 "
+  },
+  {
+    "id": "product16.55",
+    "name": "Duża półka na produkty",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Paczka gwoździ",
+      "Klej",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/16_55.webp?raw=true",
+    "price": "200"
   },
   {
     "id": "product17",
