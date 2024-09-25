@@ -1191,6 +1191,21 @@
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_36.webp?raw=true",
     "price": "4000 "
   },
+    {
+    "id": "product35.36",
+    "name": "Misa do serów",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Rozdrabniacz",
+      "Paczki gwoździ",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_37.webp?raw=true",
+    "price": "1500"
+  },
   {
     "id": "product36",
     "name": "Duży stojak na wina",
