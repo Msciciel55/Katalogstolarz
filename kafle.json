@@ -608,6 +608,54 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.31",
+        "category": "warsztaty",
+        "image": "assets/35_31.webp",
+        "title": "Stół cyrulika",
+        "subtitle": "Stół cyrulika",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.32",
+        "category": "warsztaty",
+        "image": "assets/35_32.webp",
+        "title": "Stół do medycyny naturalnej",
+        "subtitle": "Stol do medycyny naturalnej",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.33",
+        "category": "warsztaty",
+        "image": "assets/35_33.webp",
+        "title": "Stół do alchemii",
+        "subtitle": "Stół do alchemii",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.34",
+        "category": "warsztaty",
+        "image": "assets/35_34.webp",
+        "title": "Moździerz",
+        "subtitle": "Mozdzierz",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.35",
+        "category": "warsztaty",
+        "image": "assets/35_35.webp",
+        "title": "Stół zielarza",
+        "subtitle": "Stol zielarza farmera",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.36",
+        "category": "warsztaty",
+        "image": "assets/35_36.webp",
+        "title": "Maszyna do naparów",
+        "subtitle": "Maszyna do naparów",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.webp",
