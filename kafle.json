@@ -184,6 +184,14 @@
         "description": "Tier 23"
     },
     {
+        "id": "product16.55",
+        "category": "beds",
+        "image": "assets/16_55.webp",
+        "title": "Duża półka na produkty",
+        "subtitle": "Duza polka na produkty",
+        "description": "Tier 24"
+    },
+    {
         "id": "product17",
         "category": "beds",
         "image": "assets/17.png",
