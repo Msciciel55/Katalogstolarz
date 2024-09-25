@@ -1026,7 +1026,7 @@
     "ingredients": [
       "Potrzebne materiały:",
       "Deski dębowe",
-      "Paczki gowździ",
+      "Paczki gwoździ",
       "Tasak do ryb",
       "Kleje",
       "Oleje rybne"
@@ -1041,7 +1041,7 @@
     "ingredients": [
       "Potrzebne materiały:",
       "Deski dębowe",
-      "Paczki gowździ",
+      "Paczki gwoździ",
       "Skóry dzika",
       "Nóż",
       "Kleje",
@@ -1057,7 +1057,7 @@
     "ingredients": [
       "Potrzebne materiały:",
       "Deski dębowe",
-      "Paczki gowździ",
+      "Paczki gwoździ",
       "Skóry dzika",
       "Nóż",
       "Kleje",
@@ -1073,7 +1073,7 @@
     "ingredients": [
       "Potrzebne materiały:",
       "Deski dębowe",
-      "Paczki gowździ",
+      "Paczki gwoździ",
       "Oleje rybne"
     ],
     "description": "",
@@ -1086,7 +1086,7 @@
     "ingredients": [
       "Potrzebne materiały:",
       "Deski dębowe",
-      "Paczki gowździ",
+      "Paczki gwoździ",
       "Sztaby stali",
       "Stalowe pręty",
       "Nity",
@@ -1095,6 +1095,101 @@
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_30.webp?raw=true",
     "price": "3200 "
+  },
+  {
+    "id": "product35.31",
+    "name": "Stół cyrulika",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Jutowe tkaniny",
+      "Paczki gwoździ",
+      "Kolby",
+      "Fiolki",
+      "Menzurki",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_31.webp?raw=true",
+    "price": "3000 "
+  },
+  {
+    "id": "product35.32",
+    "name": "Stół do medycyny naturalnej",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczki gwoździ",
+      "Fiolki",
+      "Kamienie lecznicze",
+      "Proszek wapienny",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_32.webp?raw=true",
+    "price": "2000 "
+  },
+  {
+    "id": "product35.33",
+    "name": "Stół do alchemii",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Paczki gwoździ",
+      "Kolby",
+      "Fiolki",
+      "Menzurki",
+      "Kleje",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_33.webp?raw=true",
+    "price": "2500 "
+  },
+  {
+    "id": "product35.34",
+    "name": "Moździerz",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Granit",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_34.webp?raw=true",
+    "price": "400 "
+  },
+    {
+    "id": "product35.35",
+    "name": "Stół zielarza",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Jutowe tkaniny",
+      "Paczki gwoździ",
+      "Kolby",
+      "Fiolki",
+      "Menzurki",
+      "Proszek wapienny",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_35.webp?raw=true",
+    "price": "2700 "
+  },
+    {
+    "id": "product35.36",
+    "name": "Maszyna do naparów",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Sztaba stali",
+      "Stalowe pręty",
+      "Wiadro nitów",
+      "Drut",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/35_36.webp?raw=true",
+    "price": "4000 "
   },
   {
     "id": "product36",
