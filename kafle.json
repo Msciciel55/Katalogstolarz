@@ -656,6 +656,14 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.37",
+        "category": "warsztaty",
+        "image": "assets/35_37.webp",
+        "title": "Misa do serów",
+        "subtitle": "Misa do serow",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.webp",
