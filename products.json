@@ -108,12 +108,12 @@
     "ingredients": [
       "Potrzebne materiały:",
       "Deski brzozowe",
-      "Null",
+      "Skóry wilka",
       "Jutowe tkaniny"
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/7_5.webp",
-    "price": "170 "
+    "price": "180"
   },
   {
     "id": "product8",
@@ -255,12 +255,12 @@
     "ingredients": [
       "Potrzebne materiały:",
       "Deski topoli",
-      "Null",
+      "Skóry dzika",
       "Jutowe tkaniny"
     ],
     "description": "",
     "image": "https://raw.githubusercontent.com/Msciciel55/Katalogstolarz/main/webp/14_5.webp",
-    "price": "250 "
+    "price": "350"
   },
   {
     "id": "product15",
