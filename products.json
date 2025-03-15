@@ -18,7 +18,7 @@
       "Jutowe tkaniny"
     ],
     "description": "Regeneracja staminy: 0.25/s",
-    "model": "assets/models/model1.glb"
+    "image": "assets/models/model1.glb"
     "price": "100"
   },
   {
