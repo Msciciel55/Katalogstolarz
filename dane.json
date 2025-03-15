@@ -1,17 +1,26 @@
 [
     {
-        "model": "assets/models/model1.glb",
-        "thumbnail": "assets/images/thumbnail1.png",
-        "title": "Model 1"
+        "title": "Stół drewniany",
+        "thumbnail": "https://example.com/thumbnail1.jpg",
+        "model": "https://example.com/model1.glb",
+        "category": "Stoły"
     },
     {
-        "model": "assets/models/model2.glb",
-        "thumbnail": "assets/images/thumbnail2.jpg",
-        "title": "Model 2"
+        "title": "Krzesło nowoczesne",
+        "thumbnail": "https://example.com/thumbnail2.jpg",
+        "model": "https://example.com/model2.glb",
+        "category": "Krzesła"
     },
     {
-        "model": "assets/models/model3.glb",
-        "thumbnail": "assets/images/thumbnail3.jpg",
-        "title": "Model 3"
+        "title": "Łóżko klasyczne",
+        "thumbnail": "https://example.com/thumbnail3.jpg",
+        "model": "https://example.com/model3.glb",
+        "category": "Łóżka"
+    },
+    {
+        "title": "Skrzynia drewniana",
+        "thumbnail": "https://example.com/thumbnail4.jpg",
+        "model": "https://example.com/model4.glb",
+        "category": "Skrzynie"
     }
 ]
