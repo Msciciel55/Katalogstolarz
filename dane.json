@@ -2,7 +2,7 @@
     {
         "title": "Stół drewniany",
         "thumbnail": "https://example.com/thumbnail1.jpg",
-        "model": "https://raw.githubusercontent.com/Msciciel55/models/blob/main/model1.glb",
+        "model": "https://github.com/Msciciel55/models/raw/refs/heads/main/model1.glb",
         "category": "Stoły"
     },
     {
