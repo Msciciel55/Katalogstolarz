@@ -1,4 +1,14 @@
 [
+    {
+        "id": "model1",
+        "name": "Model 1",
+        "description": "Opis modelu 1",
+        "price": 100,
+        "category": "warsztaty",
+        "image": "assets/images/thumbnail1.jpg",
+        "model": "assets/models/model1.glb", <!-- Nowe pole dla modelu 3D -->
+        "ingredients": ["Składnik 1", "Składnik 2"]
+    },
   {
     "id": "product1",
     "name": "Łóżko z slumsów",
