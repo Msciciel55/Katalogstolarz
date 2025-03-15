@@ -2,13 +2,13 @@
     {
         "title": "Stół drewniany",
         "thumbnail": "https://example.com/thumbnail1.jpg",
-        "model": "https://github.com/Msciciel55/models/blob/main/model1.glb",
+        "model": "https://raw.githubusercontent.com/Msciciel55/models/blob/main/model1.glb",
         "category": "Stoły"
     },
     {
         "title": "Krzesło nowoczesne",
         "thumbnail": "https://example.com/thumbnail2.jpg",
-        "model": "https://github.com/Msciciel55/models/blob/main/model2.glb",
+        "model": "https://raw.githubusercontent.com/Msciciel55/models/blob/main/model2.glb",
         "category": "Krzesła"
     },
     {
