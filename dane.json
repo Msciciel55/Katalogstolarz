@@ -1,0 +1,17 @@
+[
+    {
+        "model": "assets/models/model1.glb",
+        "thumbnail": "assets/images/thumbnail1.png",
+        "title": "Model 1"
+    },
+    {
+        "model": "assets/models/model2.glb",
+        "thumbnail": "assets/images/thumbnail2.jpg",
+        "title": "Model 2"
+    },
+    {
+        "model": "assets/models/model3.glb",
+        "thumbnail": "assets/images/thumbnail3.jpg",
+        "title": "Model 3"
+    }
+]
